@@ -6,16 +6,17 @@
 The release is already overdue, this should have been released 5 months ago, but this is a "free-tier" mod, so don't expect too much.
 
 ## Disclaimer
-**Use at your own risk, especially getting banned or losing your raids. Don't blame me if you got banned or crash on-going raid**.
+**Use at your own risk, especially getting banned or losing your raids. Don't blame me if you get banned or crash an ongoing raid**.
 
 ## How to use it
 ```
 └── Dragon Nest Folder
     ├── ddraw.dll
-    └── dragonnest_x64.exe
+    ├── dragonnest_x64.exe
+    └── dnconfig.ini
 ```
-- There will be a config named ``` dnconfig.ini ``` which you can modify if something is crashing while using the dll. 
 - **To open the GUI press ```- =``` on your keyboard**
+- There will be a config named ``` dnconfig.ini ``` which you can modify if some features crashes the game. 
 ## List of features
 - Camera
   - Camera Zoom
