@@ -6,7 +6,7 @@
 The release is already overdue, this should have been released 5 months ago, but this is a "free-tier" mod, so don't expect too much.
 
 ## Disclaimer
-**Use at your own risk, especially getting banned or losing your raids. Don't blame me if you get banned or crash an ongoing raid**.
+**Use at your own risk, don't blame me, especially regarding getting banned or losing your raids (crashes, graphical errors etc.).**
 
 ## How to use it
 ```
@@ -38,6 +38,7 @@ The release is already overdue, this should have been released 5 months ago, but
   - Set Process Thread to High
   - Process Priority
   - Bandicam Thread
+  - Auto Skip Cutscene (Cutscene that needs to hit ESC)
   - FPS Limiter
 
 
