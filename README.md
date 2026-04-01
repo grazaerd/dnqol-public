@@ -1,4 +1,9 @@
 # DNQOL
+
+## Discord channel
+I'm mostly active on discord, so if you want to ask something or report, use the invite code.
+code: xuMkmQJBPs
+
 ## Official clients and DX11 only.
 > - Tested on SEA. 
 
@@ -40,7 +45,6 @@ The release is already overdue, this should have been released 5 months ago, but
   - Bandicam Thread
   - Auto Skip Cutscene (Cutscene that needs to hit ESC)
   - FPS Limiter
-
 
 ## Issue
 If you found an issue while using this, please create an issue on [Issues Section](https://github.com/grazaerd/dnqol-public/issues), and make sure to test it thoroughly, without and with the mod. If the issue is hard to notice, attach a video, otherwise, attach a picture.
