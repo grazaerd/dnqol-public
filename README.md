@@ -34,10 +34,11 @@ The release is already overdue, this should have been released 5 months ago, but
   - Weapon Trails
   - Color Post Process
 - UI
-  - Hit Combo
-  - Total Damage
-  - Pick Item on Chat
-  - Guide Star Alert
+  - Disable Hit Combo
+  - Disable Total Damage
+  - Disable Pick Item on Chat
+  - Disable Guide Star Alert
+  - Disable Equipment Locker
 - Misc
   - Window Ghosting
   - Set Process Thread to High
@@ -45,6 +46,8 @@ The release is already overdue, this should have been released 5 months ago, but
   - Bandicam Thread
   - Auto Skip Cutscene (Cutscene that needs to hit ESC)
   - FPS Limiter
+  - Auto Click EFM Stone
+  - Bypass Pak Size
 
 ## Issue
 If you found an issue while using this, please create an issue on [Issues Section](https://github.com/grazaerd/dnqol-public/issues), and make sure to test it thoroughly, without and with the mod. If the issue is hard to notice, attach a video, otherwise, attach a picture.
