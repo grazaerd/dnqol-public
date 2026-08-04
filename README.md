@@ -5,7 +5,10 @@ I'm mostly active on discord, so if you want to ask something or report, use the
 code: xuMkmQJBPs
 
 ## Official clients and DX11 only.
-> - Tested on SEA. 
+> - Tested on SEA.
+
+## Windows
+> - Windows 10, version 1803+ do not use lower version than this ([CREATE_WAITABLE_TIMER_HIGH_RESOLUTION](https://learn.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-createwaitabletimerexw))
 
 ## Note
 The release is already overdue, this should have been released 5 months ago, but this is a "free-tier" mod, so don't expect too much.
