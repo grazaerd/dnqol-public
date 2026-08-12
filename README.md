@@ -31,6 +31,7 @@ The release is already overdue, this should have been released 5 months ago, but
   - Camera Shake
   - Camera Animation
   - FOV
+  - Free Camera
 - Shader
   - Gray Screen on Dead
   - Outline
