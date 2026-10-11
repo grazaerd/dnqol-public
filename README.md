@@ -32,6 +32,8 @@ The release is already overdue, this should have been released 5 months ago, but
   - Camera Animation
   - FOV
   - Free Camera
+  - Disable NPC Camera Talk
+  - Camera Acceleration
 - Shader
   - Gray Screen on Dead
   - Outline
@@ -52,6 +54,7 @@ The release is already overdue, this should have been released 5 months ago, but
   - FPS Limiter
   - Auto Click EFM Stone
   - Bypass Pak Size
+  - Disable Players Wing, Tail and Ring
 
 ## Issue
 If you found an issue while using this, please create an issue on [Issues Section](https://github.com/grazaerd/dnqol-public/issues), and make sure to test it thoroughly, without and with the mod. If the issue is hard to notice, attach a video, otherwise, attach a picture.
